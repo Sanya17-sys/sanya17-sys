@@ -362,3 +362,4 @@ Whether you have an interesting project, an opportunity, or just want to talk te
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,25:0284c7,50:1e1b4b,75:0f172a,100:030712&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+njh
